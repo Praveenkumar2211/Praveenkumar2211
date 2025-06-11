@@ -15,7 +15,7 @@
  
 </p>
 
-- 🔭 I'm currently working on **React, TypeScript and Redux projects**
+- 🔭 I'm currently working on **React, JavaScript, TypeScript and Redux projects**
 - 🌱 Learning **Next.js and advanced JavaScript patterns**
 - 👯 Looking to collaborate on **open-source frontend projects**
 - 💬 Ask me about **React, JavaScript, or web accessibility**
