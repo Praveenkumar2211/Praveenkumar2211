@@ -10,8 +10,9 @@
     <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="40" height="40"/>
   </a>
   <a href="https://drive.google.com/file/d/1f-QBLCaQV4xUz_vMHIa0rHB7SwMgF1VF/view" target="_blank">
-    <img src="https://img.icons8.com/external-kmg-design-outline-color-kmg-design/32/000000/external-resume-job-search-kmg-design-outline-color-kmg-design.png" width="40" height="40"/>
-  </a>
+<img src="https://img.icons8.com/color/48/000000/pdf-2.png" width="40" height="40"/>
+   </a>
+ 
 </p>
 
 - 🔭 I'm currently working on **React, TypeScript and Redux projects**
