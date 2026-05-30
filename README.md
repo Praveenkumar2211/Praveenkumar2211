@@ -9,7 +9,7 @@
   <a href="mailto:vemulapraveenkumar705@gmail.com">
     <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="40" height="40"/>
   </a>
-  <a href="https://drive.google.com/file/d/1f-QBLCaQV4xUz_vMHIa0rHB7SwMgF1VF/view" target="_blank">
+  <a href="https://drive.google.com/file/d/1QIrn75BDT-FeLRnhz38SlbKzjkBw6gaV/view" target="_blank">
 <img src="https://img.icons8.com/color/48/000000/pdf-2.png" width="40" height="40"/>
    </a>
  
